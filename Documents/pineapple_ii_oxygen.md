@@ -1,4 +1,4 @@
-# Pineapple II Hydrogen/0.6.0 Tech Doc
+# Pineapple II Oxygen/0.6.0 Tech Doc
 
 ## Interface
 
